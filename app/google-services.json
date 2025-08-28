@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565621097974",
+    "project_id": "beat-fetch-b003f",
+    "storage_bucket": "beat-fetch-b003f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565621097974:android:cd0aa02735bd85cfd673d7",
+        "android_client_info": {
+          "package_name": "com.example.beat_fetch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi95ibI6RkZHLgxAuzD-PLLj7VeBtD7A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
